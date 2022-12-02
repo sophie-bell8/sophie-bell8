@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophie-bell8
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning MSc in Data Science at Manchester Metropolitan University
+- 🌱 I’m currently working as a Data Analyst. Looking to move into Data Science/Machine Learning. Distinction in MSc Data Science.
 - 📫 How to reach me sophie.bell228@gmail
 
 <!---
