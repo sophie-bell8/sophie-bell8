@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sophie-bell8
 - 👀 I’m interested in data science
-- 🌱 I’m currently working as a Data Analyst. Looking to move into Data Science/Machine Learning. Distinction in MSc Data Science.
+- 🌱 I’m currently working as a Data Science Practitioner.
+- 🌱 Practicing and improving on my current skillset!
 - 📫 How to reach me sophie.bell228@gmail
 
 <!---
